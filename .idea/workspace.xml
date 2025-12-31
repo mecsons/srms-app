@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="966b0ef7-6ba0-4ce2-bc5a-cf0ebdbf5df9" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/public/assets/empty.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/favicons/apple-touch-icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/favicons/favicon-96x96.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/favicons/favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/favicons/favicon.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/favicons/web-app-manifest-192x192.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/favicons/web-app-manifest-512x512.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/manifest.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/robots.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/api/index.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/api/keys.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/ui/form.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/ui/password-input.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/hooks/use-notify.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/modules/auth/components/login-form.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/modules/auth/lib/hooks/use-auth-store.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/modules/auth/lib/hooks/use-login-form.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/modules/auth/lib/service/auth-service.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/modules/auth/lib/types.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/modules/auth/lib/validation/login.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/routes/_protected/index.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/routes/_protected/route.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/routes/_public/login.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/routes/_public/route.tsx" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 1
+}]]></component>
+  <component name="ProjectId" id="37bf5FAE23mbH1CtbDmA2wPaF4I" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
+    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "/Users/Ringo_Jr/Projects/mecsons/frontend/public",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "project.propVCSSupport.DirectoryMappings",
+    "ts.external.directory.path": "/Users/Ringo_Jr/Projects/mecsons/frontend/node_modules/typescript/lib"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/public" />
+    </key>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-d6986cc7102b-9b0f141eb926-JavaScript-WS-253.29346.143" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="966b0ef7-6ba0-4ce2-bc5a-cf0ebdbf5df9" name="Changes" comment="" />
+      <created>1767176505288</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1767176505288</updated>
+      <workItem from="1767176506532" duration="6342000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
