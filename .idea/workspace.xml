@@ -4,16 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="966b0ef7-6ba0-4ce2-bc5a-cf0ebdbf5df9" name="Changes" comment="add favicons">
-      <change afterPath="$PROJECT_DIR$/src/modules/auth/lib/hooks/use-current-user.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/modules/navigation/components/site-header.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pnpm-lock.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/pnpm-lock.yaml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/lib/utils.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/lib/utils.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/main.tsx" afterDir="false" />
+    <list default="true" id="966b0ef7-6ba0-4ce2-bc5a-cf0ebdbf5df9" name="Changes" comment="fix things and even add a place for login and logout">
+      <change afterPath="$PROJECT_DIR$/src/modules/navigation/components/app-sidebar.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/modules/navigation/index.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/modules/navigation/lib/consts.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/modules/navigation/types.ts" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/routes/_protected/route.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/routes/_protected/route.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/styles.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -82,7 +78,7 @@
       <updated>1767176505288</updated>
       <workItem from="1767176506532" duration="6342000" />
       <workItem from="1767191533810" duration="1027000" />
-      <workItem from="1767222419264" duration="3149000" />
+      <workItem from="1767222419264" duration="4926000" />
     </task>
     <task id="LOCAL-00001" summary="users can now login">
       <option name="closed" value="true" />
@@ -116,7 +112,15 @@
       <option name="project" value="LOCAL" />
       <updated>1767192605340</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="fix things and even add a place for login and logout">
+      <option name="closed" value="true" />
+      <created>1767240840975</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1767240840975</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -127,6 +131,7 @@
     <MESSAGE value="ignore unnecessary files" />
     <MESSAGE value="add sidebar components" />
     <MESSAGE value="add favicons" />
-    <option name="LAST_COMMIT_MESSAGE" value="add favicons" />
+    <MESSAGE value="fix things and even add a place for login and logout" />
+    <option name="LAST_COMMIT_MESSAGE" value="fix things and even add a place for login and logout" />
   </component>
 </project>
